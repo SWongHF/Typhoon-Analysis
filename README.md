@@ -1,4 +1,4 @@
-# Typhoon-Analysis
+# Typhoon Analysis
 This project is a web crawler written in Python that fetches typhoon data from "http://agora.ex.nii.ac.jp/digital-typhoon/ibtracs/" and generates data related to typhoons. The goal of this project is to analyze typhoon patterns and produce an image representing the path of typhoons from 1992 to 2022, covering a span of 20 years.
 
 # Features
