@@ -11,7 +11,7 @@ This project is a web crawler written in Python that fetches typhoon data from "
 The code is available in the form of a Jupyter Notebook file (.ipynb). To use this project, you can download the file and open it in Jupyter Notebook, running Anaconda 3.9. From there, you can run the code and generate the desired output.
 
 # References
-I would like to give credits to the following wikipages/articles/webpages that provides useful information for my project.
+I would like to give credits to the following wikipages/articles/webpages that provide useful information for my project.
 
 #1. "2022 Pacific typhoon season." Wikipedia. Last edited 27 November 2022. Accessed November 28, 2022. https://en.wikipedia.org/wiki/2022_Pacific_typhoon_season.
 
